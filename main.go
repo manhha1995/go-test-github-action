@@ -28,3 +28,7 @@ func Error(text string) *ErrorToken {
 		ERROR: string(text),
 	}
 }
+
+func main() {
+	fmt.Println("starting process...")
+}
