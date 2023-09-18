@@ -1,4 +1,4 @@
-package stringtokenizer
+package main
 
 import (
 	"errors"

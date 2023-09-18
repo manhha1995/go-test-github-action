@@ -1,4 +1,4 @@
-package stringtokenizer
+package main
 
 type StringTokenizer struct {
 	Text     string
